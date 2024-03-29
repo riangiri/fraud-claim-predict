@@ -1,0 +1,3 @@
+Dataset : https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection/data
+
+Deploy : https://huggingface.co/spaces/rianrg/M2-Fr-class
